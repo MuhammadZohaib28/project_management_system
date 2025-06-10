@@ -38,7 +38,7 @@ const SignIn = () => {
     console.log(values);
   };
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-muted/40 p-4">
+    <div className="min-h-screen w-1/3 flex flex-col items-center justify-center bg-muted/40 p-4">
       <Card className="w-full h-full shadow-2xl">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl font-bold">Welcome Back</CardTitle>
